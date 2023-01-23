@@ -1,198 +1,229 @@
 [
     {
-        "Username": "Alex",
-        "AccountID": "2453425652",
+        "User": {
+            "Username": "Alex",
+            "AccountID": "2453425652"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "GBP",
                 "To": "USD",
-                "Value": 500000
+                "Deposit": 500000
             }
         ]
     },
     {
-        "Username": "Ben",
-        "AccountID": "8674652543",
+        "User": {
+            "Username": "Ben",
+            "AccountID": "8674652543"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "GBP",
                 "To": "EUR",
-                "Value": 750000
+                "Deposit": 750000
             }
         ]
     },
     {
-        "Username": "David",
-        "AccountID": "8562953754",
+        "User": {
+            "Username": "David",
+            "AccountID": "8562953754"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "USD",
                 "To": "EUR",
-                "Value": 500000
+                "Deposit": 500000
             }
         ]
     },
     {
-        "Username": "Ema",
-        "AccountID": "848563421",
+        "User": {
+            "Username": "Ema",
+            "AccountID": "848563421"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "USD",
                 "To": "JPY",
-                "Value": 900000
+                "Deposit": 900000
             }
         ]
     },
     {
-        "Username": "Fiona",
-        "AccountID": "335647689",
+        "User": {
+            "Username": "Fiona",
+            "AccountID": "335647689"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "EUR",
                 "To": "RUB",
-                "Value": 1000000
+                "Deposit": 1000000
             }
         ]
     },
     {
-        "Username": "Gina",
-        "AccountID": "242564578",
+        "User": {
+            "Username": "Gina",
+            "AccountID": "242564578"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "EUR",
                 "To": "INR",
-                "Value": 1200000
+                "Deposit": 1200000
             }
         ]
     },
     {
-        "Username": "Alex",
+        "User": {
+            "Username": "Alex",
+            "AccountID": "667783546"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "RUB",
                 "To": "GBP",
-                "Value": 15000000
+                "Deposit": 15000000
             }
         ]
     },
     {
-        "Username": "Tina",
-        "AccountID": "565283951",
+        "User":{
+            "Username": "Tina",
+            "AccountID": "565283951"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "RUB",
                 "To": "USD",
-                "Value": 17500000
+                "Deposit": 17500000
             }
         ]
     },
     {
-        "Username": "Simon",
-        "AccountID": "4677859941",
+        "User":{
+            "Username": "Simon",
+            "AccountID": "4677859941"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "JPY",
                 "To": "GBP",
-                "Value": 25000000
+                "Deposit": 25000000
             }
         ]
     },
     {
-        "Username": "Selena",
-        "AccountID": "4877639720",
+        "User":{
+            "Username": "Selena",
+            "AccountID": "4877639720"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "JPY",
                 "To": "EUR",
-                "Value": 30000000
+                "Deposit": 30000000
             }
         ]
     },
     {
-        "Username": "Nolan",
-        "AccountID": "7445668990",
+        "User":{
+            "Username": "Nolan",
+            "AccountID": "7445668990"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "INR",
                 "To": "RUB",
-                "Value": 5000000
+                "Deposit": 5000000
             }
         ]
     },
     {
-        "Username": "Naomi",
-        "AccountID": "352678541",
+        "User":{
+            "Username": "Naomi",
+            "AccountID": "352678541"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "INR",
                 "To": "JPY",
-                "Value": 8000000
+                "Deposit": 8000000
             }
         ]
     },
     {
-        "Username": "Paul",
-        "AccountID": "9122387545",
+        "User":{
+            "Username": "Paul",
+            "AccountID": "9122387545"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "USD",
                 "To": "EUR",
-                "Value": 650000
+                "Deposit": 650000
             },
             {
                 "TransactionID": 2,
                 "From": "GBP",
                 "To": "EUR",
-                "Value": 850000
+                "Deposit": 850000
             }
         ]
     },
     {
-        "Username": "Lana",
-        "AccountID": "8766234490",
+        "User":{
+            "Username": "Lana",
+            "AccountID": "8766234490"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "RUB",
                 "To": "GBP",
-                "Value": 16500000
+                "Deposit": 16500000
             },
             {
                 "TransactionID": 2,
                 "From": "RUB",
                 "To": "USD",
-                "Value": 19500000
+                "Deposit": 19500000
             }
         ]
     },
     {
-        "Username": "Nolan",
-        "AccountID": "2556779340",
+        "User":{
+            "Username": "Nolan",
+            "AccountID": "2556779340"
+        },
         "Transaction": [
             {
                 "TransactionID": 1,
                 "From": "JPY",
                 "To": "GBP",
-                "Value": 32000000
+                "Deposit": 32000000
             },
             {
                 "TransactionID": 2,
                 "From": "JPY",
                 "To": "EUR",
-                "Value": 36500000
+                "Deposit": 36500000
             }
         ]
     }

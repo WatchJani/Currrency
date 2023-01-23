@@ -15,6 +15,7 @@ func Empty() *[]Account {
 	return &[]Account{}
 }
 
+//Empty single object
 // func Empty() *Account {
 // 	return &Account{}
 // }
