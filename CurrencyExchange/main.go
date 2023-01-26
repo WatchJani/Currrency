@@ -13,5 +13,7 @@ func main() {
 	transfers := transfer.Empty()
 	os.ReadFile(transfers, "./data/Transaction.json")
 
-	os.WriteFile(transfers)
+	transfer.Transaction(accounts, transfers)
+
+	os.WriteFile(accounts)
 }

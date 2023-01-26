@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-const OUTPUT string = "test"
+const OUTPUT string = "res"
 
 func WriteFile(data any) {
 	jp, err := json.Marshal(data)
@@ -21,6 +21,6 @@ func WriteFile(data any) {
 		fmt.Println("Directory created!")
 	}
 
-	err = ioutil.WriteFile(fmt.Sprintf("%s/test.json", OUTPUT), jp, 0644)
+	err = ioutil.WriteFile(fmt.Sprintf("%s/res.json", OUTPUT), jp, 0644)
 	ErrorHandler(err)
 }

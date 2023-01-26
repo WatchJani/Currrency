@@ -1,0 +1,572 @@
+[
+    {
+        "User": {
+            "Username": "Alex",
+            "AccountID": "2453425652"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 300000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": -440000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 70000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 5000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 6000000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 8000000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Ben",
+            "AccountID": "8674652543"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 60000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": -680000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 455000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 6000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 7000000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 10000000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "David",
+            "AccountID": "8562953754"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": -470000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 40000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 280000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 3000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 4000000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 20000000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Emma",
+            "AccountID": "848563421"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": -890000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 10000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 10000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 1000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 1450000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 10000000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Fiona",
+            "AccountID": "335647689"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 5000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 5000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": -995000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 600000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 100000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 1000000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Gina",
+            "AccountID": "242564578"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 4000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 4000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": -1196000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 50000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 50000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 1100000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Alex",
+            "AccountID": "667783546"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 7500000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": -15000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Tina",
+            "AccountID": "565283951"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 8750000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": -17500000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Simon",
+            "AccountID": "4677859941"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 500000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 13100000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 700000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": -25000000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Selena",
+            "AccountID": "4877639720"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 250000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 350000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 15450000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": -30000000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Nolan",
+            "AccountID": "7445668990"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 5000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 4500000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 2500000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Naomi",
+            "AccountID": "352678541"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 7500000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 12500000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": -4500000
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Paul",
+            "AccountID": "9122387545"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 9350000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 9150000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 10750000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Lana",
+            "AccountID": "8766234490"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 10500000
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 10250000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 10000000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": -36000000
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    },
+    {
+        "User": {
+            "Username": "Nolan",
+            "AccountID": "2556779340"
+        },
+        "Currency": [
+            {
+                "CurrencyID": 1,
+                "Currency": "USD",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 2,
+                "Currency": "GBP",
+                "Amount": 18500000
+            },
+            {
+                "CurrencyID": 3,
+                "Currency": "EUR",
+                "Amount": 20750000
+            },
+            {
+                "CurrencyID": 4,
+                "Currency": "RUB",
+                "Amount": 0
+            },
+            {
+                "CurrencyID": 5,
+                "Currency": "JPY",
+                "Amount": -68500000
+            },
+            {
+                "CurrencyID": 6,
+                "Currency": "INR",
+                "Amount": 0
+            }
+        ]
+    }
+]

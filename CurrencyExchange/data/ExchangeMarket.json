@@ -190,184 +190,184 @@
         "Name": "Exchange Market 2",
         "Market": [
             {
-                "CurencyID": 1,
-                "GBP": [
-                    {
-                        "ID": 1,
-                        "To": "USD",
-                        "ExchangeRate": 1.180
-                    },
-                    {
-                        "ID": 2,
-                        "To": "EUR",
-                        "ExchangeRate": 1.189
-                    },
-                    {
-                        "ID": 3,
-                        "To": "RUB",
-                        "ExchangeRate": 76.294
-                    },
-                    {
-                        "ID": 4,
-                        "To": "JPY",
-                        "ExchangeRate": 164.314
-                    },
-                    {
-                        "ID": 5,
-                        "To": "INR",
-                        "ExchangeRate": 93.480
-                    }
-                ]
+                "From": "GBP",
+                "ID": 1,
+                "To": "USD",
+                "ExchangeRate": 1.180
             },
             {
-                "CurencyID": 2,
-                "USD": [
-                    {
-                        "ID": 1,
-                        "To": "GBP",
-                        "ExchangeRate": 0.860
-                    },
-                    {
-                        "ID": 2,
-                        "To": "EUR",
-                        "ExchangeRate": 0.999
-                    },
-                    {
-                        "ID": 3,
-                        "To": "RUB",
-                        "ExchangeRate": 64.000
-                    },
-                    {
-                        "ID": 4,
-                        "To": "JPY",
-                        "ExchangeRate": 136.265
-                    },
-                    {
-                        "ID": 5,
-                        "To": "INR",
-                        "ExchangeRate": 80.435
-                    }
-                ]
+                "From": "GBP",
+                "ID": 2,
+                "To": "EUR",
+                "ExchangeRate": 1.189
             },
             {
-                "CurencyID": 3,
-                "EUR": [
-                    {
-                        "ID": 1,
-                        "To": "GBP",
-                        "ExchangeRate": 0.824
-                    },
-                    {
-                        "ID": 2,
-                        "To": "USD",
-                        "ExchangeRate": 1.000
-                    },
-                    {
-                        "ID": 3,
-                        "To": "RUB",
-                        "ExchangeRate": 66.279
-                    },
-                    {
-                        "ID": 4,
-                        "To": "JPY",
-                        "ExchangeRate": 138.790
-                    },
-                    {
-                        "ID": 5,
-                        "To": "INR",
-                        "ExchangeRate": 80.768
-                    }
-                ]
+                "From": "GBP",
+                "ID": 3,
+                "To": "RUB",
+                "ExchangeRate": 76.294
             },
             {
-                "CurencyID": 4,
-                "RUB": [
-                    {
-                        "ID": 1,
-                        "To": "GBP",
-                        "ExchangeRate": 0.082
-                    },
-                    {
-                        "ID": 2,
-                        "To": "USD",
-                        "ExchangeRate": 0.010
-                    },
-                    {
-                        "ID": 3,
-                        "To": "EUR",
-                        "ExchangeRate": 0.018
-                    },
-                    {
-                        "ID": 4,
-                        "To": "JPY",
-                        "ExchangeRate": 2.010
-                    },
-                    {
-                        "ID": 5,
-                        "To": "INR",
-                        "ExchangeRate": 1.122
-                    }
-                ]
+                "From": "GBP",
+                "ID": 4,
+                "To": "JPY",
+                "ExchangeRate": 164.314
             },
             {
-                "CurencyID": 5,
-                "JPY": [
-                    {
-                        "ID": 1,
-                        "To": "GBP",
-                        "ExchangeRate": 0.004
-                    },
-                    {
-                        "ID": 2,
-                        "To": "USD",
-                        "ExchangeRate": 0.009
-                    },
-                    {
-                        "ID": 3,
-                        "To": "EUR",
-                        "ExchangeRate": 0.010
-                    },
-                    {
-                        "ID": 4,
-                        "To": "RUB",
-                        "ExchangeRate": 0.495
-                    },
-                    {
-                        "ID": 5,
-                        "To": "INR",
-                        "ExchangeRate": 0.555
-                    }
-                ]
+                "From": "GBP",
+                "ID": 5,
+                "To": "INR",
+                "ExchangeRate": 93.480
             },
             {
-                "CurencyID": 6,
-                "INR": [
-                    {
-                        "ID": 1,
-                        "To": "GBP",
-                        "ExchangeRate": 0.012
-                    },
-                    {
-                        "ID": 2,
-                        "To": "USD",
-                        "ExchangeRate": 0.010
-                    },
-                    {
-                        "ID": 3,
-                        "To": "EUR",
-                        "ExchangeRate": 0.011
-                    },
-                    {
-                        "ID": 4,
-                        "To": "JPY",
-                        "ExchangeRate": 0.805
-                    },
-                    {
-                        "ID": 5,
-                        "To": "JPY",
-                        "ExchangeRate": 1.740
-                    }
-                ]
+                "From": "USD",
+                "ID": 1,
+                "To": "GBP",
+                "ExchangeRate": 0.860
+            },
+            {
+                "From": "USD",
+                "ID": 2,
+                "To": "EUR",
+                "ExchangeRate": 0.999
+            },
+            {
+                "From": "USD",
+                "ID": 3,
+                "To": "RUB",
+                "ExchangeRate": 64.000
+            },
+            {
+                "From": "USD",
+                "ID": 4,
+                "To": "JPY",
+                "ExchangeRate": 136.265
+            },
+            {
+                "From": "USD",
+                "ID": 5,
+                "To": "INR",
+                "ExchangeRate": 80.435
+            },
+            {
+                "From": "EUR",
+                "ID": 1,
+                "To": "GBP",
+                "ExchangeRate": 0.824
+            },
+            {
+                "From": "EUR",
+                "ID": 2,
+                "To": "USD",
+                "ExchangeRate": 1.000
+            },
+            {
+                "From": "EUR",
+                "ID": 3,
+                "To": "RUB",
+                "ExchangeRate": 66.279
+            },
+            {
+                "From": "EUR",
+                "ID": 4,
+                "To": "JPY",
+                "ExchangeRate": 138.790
+            },
+            {
+                "From": "EUR",
+                "ID": 5,
+                "To": "INR",
+                "ExchangeRate": 80.768
+            },
+            {
+                "From": "RUB",
+                "ID": 1,
+                "To": "GBP",
+                "ExchangeRate": 0.082
+            },
+            {
+                "From": "RUB",
+                "ID": 2,
+                "To": "USD",
+                "ExchangeRate": 0.010
+            },
+            {
+                "From": "RUB",
+                "ID": 3,
+                "To": "EUR",
+                "ExchangeRate": 0.018
+            },
+            {
+                "From": "RUB",
+                "ID": 4,
+                "To": "JPY",
+                "ExchangeRate": 2.010
+            },
+            {
+                "From": "RUB",
+                "ID": 5,
+                "To": "INR",
+                "ExchangeRate": 1.122
+            },
+            {
+                "From": "JPY",
+                "ID": 1,
+                "To": "GBP",
+                "ExchangeRate": 0.004
+            },
+            {
+                "From": "JPY",
+                "ID": 2,
+                "To": "USD",
+                "ExchangeRate": 0.009
+            },
+            {
+                "From": "JPY",
+                "ID": 3,
+                "To": "EUR",
+                "ExchangeRate": 0.010
+            },
+            {
+                "From": "JPY",
+                "ID": 4,
+                "To": "RUB",
+                "ExchangeRate": 0.495
+            },
+            {
+                "From": "JPY",
+                "ID": 5,
+                "To": "INR",
+                "ExchangeRate": 0.555
+            },
+            {
+                "From": "INR",
+                "ID": 1,
+                "To": "GBP",
+                "ExchangeRate": 0.012
+            },
+            {
+                "From": "INR",
+                "ID": 2,
+                "To": "USD",
+                "ExchangeRate": 0.010
+            },
+            {
+                "From": "INR",
+                "ID": 3,
+                "To": "EUR",
+                "ExchangeRate": 0.011
+            },
+            {
+                "From": "INR",
+                "ID": 4,
+                "To": "JPY",
+                "ExchangeRate": 0.805
+            },
+            {
+                "From": "INR",
+                "ID": 5,
+                "To": "JPY",
+                "ExchangeRate": 1.740
             }
         ]
     }
